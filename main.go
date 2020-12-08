@@ -1,10 +1,11 @@
 package main
 
 import (
-	"line-boi/servicemanagement"
-	"line-boi/servicemanagement/delivery/http"
 	"log"
 	"os"
+
+	"github.com/Kanokwan-Sudleam/line-boi/servicemanagement"
+	"github.com/Kanokwan-Sudleam/line-boi/servicemanagement/delivery/http"
 
 	"github.com/labstack/echo"
 	"github.com/line/line-bot-sdk-go/linebot"

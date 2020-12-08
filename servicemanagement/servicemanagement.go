@@ -3,10 +3,11 @@ package servicemanagement
 import (
 	"errors"
 	"fmt"
-	models "line-boi/models"
 	"net"
 	"strings"
 	"time"
+
+	models "github.com/Kanokwan-Sudleam/line-boi/models"
 )
 
 var (

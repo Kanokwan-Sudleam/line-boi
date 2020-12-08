@@ -2,8 +2,10 @@ package http
 
 import (
 	"context"
-	"line-boi/models"
-	"line-boi/servicemanagement"
+
+	"github.com/Kanokwan-Sudleam/line-boi/models"
+
+	"github.com/Kanokwan-Sudleam/line-boi/servicemanagement"
 
 	"log"
 	"time"
